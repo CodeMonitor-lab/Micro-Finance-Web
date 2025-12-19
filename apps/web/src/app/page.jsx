@@ -2,7 +2,9 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>page</div>
+    <div className='bg-red-500 p-7 w-full'>
+        <h1 className='text-5xl '>i love you</h1>
+    </div>
   )
 }
 
