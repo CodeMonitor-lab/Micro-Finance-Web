@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.pnpm-store/
+# Logs
+logs/
+*.log
+# OS
+.DS_Store
+# Next.js
+.next/
+out/
+# Env files
+.env*
+# VSCode
+.vscode/

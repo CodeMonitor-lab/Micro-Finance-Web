@@ -1,0 +1,12 @@
+{
+  "name": "micro-finance-web",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n WEB,ADMIN,API -c blue,green,yellow \"pnpm --filter web dev\" \"pnpm --filter admin dev\" \"pnpm --filter api dev\"",
+    "build": "pnpm -r build"
+  },
+  "packageManager": "pnpm@10.25.0",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
