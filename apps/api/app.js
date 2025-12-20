@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-  res.send("API running");
+  res.send("API running changes");
 });
 
 app.listen(4000, () => {

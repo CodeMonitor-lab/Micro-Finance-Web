@@ -1,7 +1,12 @@
 {
-  "version": 2,
-  "framework": "nextjs",
-  "installCommand": "pnpm install",
-  "buildCommand": "pnpm build",
-  "outputDirectory": "apps/web/.next"
+  "projects": [
+    {
+      "name": "microfinance-web",
+      "rootDirectory": "apps/web"
+    },
+    {
+      "name": "microfinance-admin",
+      "rootDirectory": "apps/admin"
+    }
+  ]
 }
