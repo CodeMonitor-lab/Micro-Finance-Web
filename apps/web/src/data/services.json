@@ -1,0 +1,33 @@
+[
+    {
+      "title": "Personal Loan",
+      "desc": "Instant financial support for education, medical needs, or personal expenses.",
+      "slug": "personal-loan"
+    },
+    {
+      "title": "Business Loan",
+      "desc": "Empowering small businesses and self-employed individuals with easy capital.",
+      "slug": "business-loan"
+    },
+    {
+      "title": "Group Loan",
+      "desc": "Community-based loans for self-help groups with flexible repayment.",
+      "slug": "group-loan"
+    },
+    {
+      "title": "Women Empowerment Loan",
+      "desc": "Designed to support women entrepreneurs and financial independence.",
+      "slug": "women-loan"
+    },
+    {
+      "title": "Agriculture Loan",
+      "desc": "Supporting farmers with seasonal funding and equipment financing.",
+      "slug": "agriculture-loan"
+    },
+    {
+      "title": "Emergency Loan",
+      "desc": "Quick short-term loans for urgent financial situations.",
+      "slug": "emergency-loan"
+    }
+  ]
+  
