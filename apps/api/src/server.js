@@ -3,6 +3,7 @@ const colors = require('colors-cli');
 
 const app = require('./app');
 const { MONGO_URI, PORT, HOST } = require('./config/env');
+console.log('MONGO_URI:', MONGO_URI);
 
 const success = colors.x13;
 const errorColor = colors.red;
